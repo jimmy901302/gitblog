@@ -1,6 +1,6 @@
 {
-    "name": "jimmy901302",
-    "repo": "blog.baojun.dpdns.org",
+    "name": "baojun",
+    "repo": "BAOJUN BLOG",
     "client_id": "Ov23livm2NwNHyo91xFf",
     "client_secret": "f3807a68bbdd4e4a539f8e276e3962220e5e125a",
     "title": "baojun",
@@ -12,7 +12,7 @@
     },
     "menu": {
         "首页":"./"
-        "vpn":"./"
+        "vpn":"./vpn"
     },
     
     "icons": {
