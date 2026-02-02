@@ -25,6 +25,7 @@
             "width" : 0
         },
         "Wechat":{
+
             "icon_src" : "images/wechrt.svg",
             "hidden_img" : null,
             "width" : 0
