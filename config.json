@@ -1,32 +1,35 @@
 {
     "name": "jimmy901302",
-    "repo": "jimmy901302.github.io",
-    "client_id": "Ov23livm2NwNHyo91xFf",
-    "client_secret": "f3807a68bbdd4e4a539f8e276e3962220e5e125a",
-    "title": "baojun",
-    "instruction": "baojun的个人博客模板",
+    "repo": "gitblog",
+    "client_id": "Ov23liqPCoEtqKvPGYKR",
+    "client_secret": "7caed8417137da8d3eb6c1852ea64f7d9e5faa30",
+    "title": "BAOJUN BLOG",
+    "instruction": "BAOJUN的个人博客",
     "server_link": "http://119.23.8.25/gh-oauth-server.php",
     "filter": {
         "creator": "all",
         "state": "open"
     },
     "menu": {
-        "首页":"./"
-        "vpn":"./vpn"
+        "首页":"https://blog.baojun.dpdns.org/",
+        "VPN":"https://blog.baojun.dpdns.org/VPN/"
     },
-    
+    "friends": {
+        "imuncle" : "https://imuncle.github.io"
+    },
     "icons": {
         "Github" : {
             "icon_src" : "images/github.svg",
-            "href" : "https://github.com/",
+            "href" : "https://github.com/jimmy901302",
             "hidden_img" : null,
             "width" : 0
-        }
+        },
         "Wechat":{
             "icon_src" : "images/wechat.jpg",
             "hidden_img" : null,
             "width" : 0
-            
+
+
         }
     }
 }
